@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "杭电大门",
+    "picture": "images/damen.jpg",
+    "cost": 2200,
+    "level": 4,
+    "location": "杭州电子科技大学"
+  },
+  {
+    "id": 1,
+    "name": "问鼎广场",
+    "picture": "images/wending.jpg",
+    "cost": 2400,
+    "level" : 4,
+    "location": "杭州电子科技大学"
+  },
+  {
+    "id": 2,
+    "name": "月雅湖",
+    "picture": "images/yueyahu.jpg",
+    "cost": 1500,
+    "level" : 2,
+    "location": "杭州电子科技大学"
+  },
+  {
+    "id": 3,
+    "name": "杭电图书馆",
+    "picture": "images/tushuguan.jpg",
+    "cost": 1800,
+    "level" : 3,
+    "location": "杭州电子科技大学"
+  },
+  {
+    "id": 4,
+    "name": "杭电学生活动中心",
+    "picture": "images/xuehuo.jpg",
+    "cost": 1300,
+    "level" : 2,
+    "location": "杭州电子科技大学"
+  },
+  {
+    "id": 5,
+    "name": "杭电十二教",
+    "picture": "images/shierjiao.jpg",
+    "cost": 2000,
+    "level" : 3,
+    "location": "杭州电子科技大学"
+  },
+  {
+    "id": 6,
+    "name": "杭电体育馆",
+    "picture": "images/tiyuguan.jpg",
+    "cost": 2500,
+    "level" : 4,
+    "location": "杭州电子科技大学"
+  },
+  {
+    "id": 7,
+    "name": "杭电体育场",
+    "picture": "images/tiyuchang.jpg",
+    "cost": 1400,
+    "level" : 2,
+    "location": "杭州电子科技大学"
+  }
+]
